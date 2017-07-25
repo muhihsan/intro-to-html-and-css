@@ -1,5 +1,15 @@
 body {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial sans-serif; 
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial sans-serif;
+  font-weight: 300;
+  color: #747704;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.text-muted{
+  color: #BCBBBB;
 }
 
 .header-logo{
