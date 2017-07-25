@@ -12,6 +12,10 @@ body {
   color: #BCBBBB;
 }
 
-.header-logo{
+.text-wrap {
+  word-wrap: break-word;
+}
+
+.header-margin{
   margin-top: 20px;
 }
