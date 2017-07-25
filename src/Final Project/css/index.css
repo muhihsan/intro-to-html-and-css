@@ -19,3 +19,7 @@ body {
 .header-margin{
   margin-top: 20px;
 }
+
+.pointer-hover {
+  cursor: pointer;
+}
